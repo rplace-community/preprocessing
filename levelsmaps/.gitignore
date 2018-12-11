@@ -1,4 +1,4 @@
-*.csv
 *.pkl
 *.hdf
+*.csv
 generated/**
